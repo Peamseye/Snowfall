@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LF5efxrKCd2n5j8qhEunDcfuK8gGOuBWF1QR7eDaAVLnHifm4F2yb8TZgaIPAahbol1CSSYvomxqbwcBwzU7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aslund.alexander\\OneDrive\\Dokument\\TE20B Spel - Webb\\Programmering 1\\Projekt\\Snowfall\\Snowfall\\Snowfall\\Snowfall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aslund.alexander\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\aslund.alexander\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
